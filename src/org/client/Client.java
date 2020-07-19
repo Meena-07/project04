@@ -5,5 +5,9 @@ public class Client {
 		// TODO Auto-generated method stub
 System.out.println("Client Name : xxxxx");
 	}
+	public void clientRequirements()
+	{
+		System.out.println("abcd");
+	}
 
 }
