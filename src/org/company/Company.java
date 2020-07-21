@@ -10,7 +10,20 @@ System.out.println("Company Name: Zoho");
 		System.out.println("Address");
 		System.out.println("Contact Details");
 	}
-	public static void main(String[] args) {
+
+	
+
+	public void clientInfo()
+	{
+		System.out.println("Client Projects");
+	}
+
+	public void companyInfo()
+	{
+		System.out.println("Info");
+	}
+
+public static void main(String[] args) {
 		
 	}
 	
