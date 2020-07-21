@@ -9,5 +9,9 @@ System.out.println("Company Name: Zoho");
 	{
 		System.out.println("Address");
 	}
+	public void companyInfo()
+	{
+		System.out.println("Info");
+	}
 
 }
